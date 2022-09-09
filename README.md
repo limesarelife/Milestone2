@@ -1,4 +1,4 @@
-# Milestone2
+# Milestone 2 SIADS 696 University of Michigan
 
 <a href="url"><img src="https://i.redd.it/u5tmm8aks9n41.jpg" align="center" height="480" width="1200" ></a>
 
