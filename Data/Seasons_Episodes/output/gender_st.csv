@@ -1,63 +1,63 @@
-Character_Fix,Gender
-AGENT FRAZIER,Male
-AGENT HARMON,Male
-ALEXEI,Male 
-ANDY,Male
-ARGYLE,Male
-BARBARA,Female
-BENNY,Male
-BILLY,Male
-BOB,Male
-BRUCE,Male
-CAROL,Female
-CLAUDIA,Female
-COLONEL SULLIVAN,Male
-DEMOGORGON,Neutral
-DEPUTY CALLAHAN,Male
-DMITRI,Male
-DR BRENNER,Male
-DR OWENS,Male
-DUSTIN,Male
-EDDIE,Male
-EIGHT,Female 
-ELEVEN,Female
-ERICA,Female
-FLORENCE,Female
-GRIGORI,Male
-HEATHER,Female
-HENRY,Male
-HOLLY,Female 
-HOPPER,Male 
-IVAN,Male 
-JAMES,Male
-JASON,Male 
-JONATHAN,Male 
-JOYCE,Female 
-KAREN,Female 
-LONNIE,Male
-LUCAS,Male
-MAX,Female
-MAYOR KLINE,Male
-MIKE,Male 
-MR CLARKE,Male 
-MRS DRISCOLL,Female
-MURRAY,Male
-NANCY,Female 
-OFFICER POWELL,Male 
-PATRICK,Male 
-ROBIN,Female 
-STEVE,Male
-SUSAN,Female
-SUZIE,Female 
-TED,Male
-TERRY,Female
-TOM,Male
-TOMMY,Male
-TROY,Male
-TWO,Male
-VECNA,Male
-VICKIE,Female 
-VICTOR CREEL,Male
-WAYNE,Male 
-WILL,Male
-YURI,Male
+Character_Fix,Gender,Age
+AGENT FRAZIER,Female,1
+AGENT HARMON,Male,1
+ALEXEI,Male,1
+ANDY,Male,2
+ARGYLE,Male,2
+BARBARA,Female,2
+BENNY,Male,1
+BILLY,Male,2
+BOB,Male,1
+BRUCE,Male,1
+CAROL,Female,2
+CLAUDIA,Female,1
+COLONEL SULLIVAN,Male,1
+DEMOGORGON,Neutral,0
+DEPUTY CALLAHAN,Male,1
+DMITRI,Male,1
+DR BRENNER,Male,1
+DR OWENS,Male,1
+DUSTIN,Male,2
+EDDIE,Male,2
+EIGHT,Female,2
+ELEVEN,Female,2
+ERICA,Female,2
+FLORENCE,Female,1
+GRIGORI,Male,1
+HEATHER,Female,2
+HENRY,Male,2
+HOLLY,Female,2
+HOPPER,Male,1
+IVAN,Male,1
+JAMES,Male,2
+JASON,Male,2
+JONATHAN,Male,2
+JOYCE,Female,1
+KAREN,Female,1
+LONNIE,Male,1
+LUCAS,Male,2
+MAX,Female,2
+MAYOR KLINE,Male,1
+MIKE,Male,2
+MR CLARKE,Male,1
+MRS DRISCOLL,Female,1
+MURRAY,Male,1
+NANCY,Female,2
+OFFICER POWELL,Male,1
+PATRICK,Male,2
+ROBIN,Female,2
+STEVE,Male,2
+SUSAN,Female,1
+SUZIE,Female,2
+TED,Male,1
+TERRY,Female,1
+TOM,Male,1
+TOMMY,Male,2
+TROY,Male,2
+TWO,Male,2
+VECNA,Male,0
+VICKIE,Female,2
+VICTOR CREEL,Male,1
+WAYNE,Male,1
+WILL,Male,2
+YURI,Male,1
