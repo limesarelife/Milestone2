@@ -1,0 +1,10 @@
+Hyper parameter,Train,Test
+Final Hyper_tuned,0.973432836,0.850763807
+Default_random state,1,0.91069
+n_estimator_500,1,0.9306
+min_samples_split_20,0.9862,0.878965
+min_samples_leaf_1,1,0.91069
+max_feat_sqrt,1,0.910693
+max_depth_30,0.9979,0.86839
+criterion_gini,1,0.910693
+n_jobs_1,1,0.910693
